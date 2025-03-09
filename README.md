@@ -16,7 +16,7 @@ This repository contains scripts and instructions for fine-tuning the BRIA-2.3-C
 To use the model, begin with an inference step:
 
 1. **Install Requirements and Set Up Inference:**
-   - To access the BRIA models for academic purposes, please complete the form linked [here](https://huggingface.co). Once approved, you can download the model from Hugging Face or proceed with the following instructions.
+   - Access the BRIA models from [here](https://huggingface.co/briaai). Once approved, you can download the model from Hugging Face or proceed with the following instructions.
 
 2. **Log into Hugging Face and Set Up Access Token:**
    - Create a read-only token on Hugging Face:
@@ -77,7 +77,4 @@ For uploading datasets, refer to Hugging Face documentation for step-by-step gui
 #### Start Training
 - Use the provided script in [this example](https://github.com/huggingface/diffusers/blob/main/examples/controlnet/train_controlnet.py) to initiate model training.
 - Ensure to configure the pipeline with Bria’s preferred foundation models.
-
-#### Contact and Support
-For issues, contact Bria at [Bria.ai support](mailto:support@bria.ai) or join the Discord community for troubleshooting and discussions.
 
