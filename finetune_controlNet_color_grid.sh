@@ -3,7 +3,7 @@ export BASE_MODEL_NAME="briaai/BRIA-2.3"
 export CONTROLNET_MODEL_NAME="briaai/BRIA-2.3-ControlNet-ColorGrid"
 
 export OUTPUT_DIR="XXXX"
-export DATASET_NAME="XXX"
+export DATASET_NAME="Negev900/controlnet_color_grid_500"
 
 accelerate launch \
   --mixed_precision="no" \
