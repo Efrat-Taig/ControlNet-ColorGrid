@@ -1,0 +1,20 @@
+{"prompt": "A serene zen garden with raked sand patterns and smooth stones on a pure white background"}
+{"prompt": "Two playful kittens chasing a red ball of yarn on a crisp white background"}
+{"prompt": "A steaming cup of coffee with intricate latte art on a white background"}
+{"prompt": "A cartoonish robot wearing a party hat and holding balloons against a white background"}
+{"prompt": "A detailed architectural sketch of the Eiffel Tower on a white background"}
+{"prompt": "A realistic monarch butterfly landing on a purple flower, set on a white background"}
+{"prompt": "An abstract swirl of rainbow colors floating in space on a white background"}
+{"prompt": "A vintage pocket watch with ornate engravings displayed on a white background"}
+{"prompt": "A child flying a colorful kite in a minimalist style on a white background"}
+{"prompt": "A majestic lion's head with a flowing mane rendered on a white background"}
+{"prompt": "Dancing musical notes floating around a vinyl record on a white background"}
+{"prompt": "A bouquet of wildflowers in watercolor style on a white background"}
+{"prompt": "An astronaut doing a moonwalk in a cartoon style on a white background"}
+{"prompt": "A stack of old leather-bound books with gold lettering on a white background"}
+{"prompt": "A paper airplane trailing origami cranes on a white background"}
+{"prompt": "A wise owl perched on a branch wearing glasses on a white background"}
+{"prompt": "A collection of vintage cameras arranged artistically on a white background"}
+{"prompt": "A steampunk-style hot air balloon with brass gears on a white background"}
+{"prompt": "A sleeping fox curled up in a geometric style on a white background"}
+{"prompt": "A surreal floating island with a tiny house and tree on a white background"}
