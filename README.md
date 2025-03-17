@@ -49,6 +49,11 @@ To use the model, begin with an inference step:
    print(f"Image saved at: {output_path}")
    ```
 
+
+<img src="https://github.com/Efrat-Taig/ControlNet-ColorGrid/blob/main/color-grid_bria 2.3.png" width="900">
+
+
+
 #### Data Preparation for Training
 1. **Data Creation:**
    - Generate captions for art images to describe them for training purposes.
